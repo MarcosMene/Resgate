@@ -1,3 +1,3 @@
-# resgate
+# Resgate
 
-O objetivo do curso é realizar um jogo em HTML, CSS e Javascript. Orientado por Denilson Bonatti na Digital Innovation One.
+Resgate é meu primeiro jogo realizado em  HTML, CSS e Javascript. Fui orientado por Denilson Bonatti na Digital Innovation One.
